@@ -1,124 +1,276 @@
 {
-   "users": [
+    "users": [
         {
-          "_id": "605acace4ab389d8ed54c496",
-          "age": 35,
-          "name": {
-            "last": "Hensley",
-            "first": "Dollie"
-          },
-          "email": "dollie.hensley@undefined.org",
-          "index": 0,
-          "phone": "+1 (904) 421-3160",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace4ab389d8ed54c496",
+            "age": 35,
+            "name": {
+                "last": "Hensley",
+                "first": "Dollie"
+            },
+            "email": "dollie.hensley@undefined.org",
+            "index": 0,
+            "phone": "+1 (904) 421-3160",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acaceed1f0e1cfa1eee67",
-          "age": 21,
-          "name": {
-            "last": "Hunt",
-            "first": "Dolores"
-          },
-          "email": "dolores.hunt@undefined.com",
-          "index": 1,
-          "phone": "+1 (967) 432-2905",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acaceed1f0e1cfa1eee67",
+            "age": 21,
+            "name": {
+                "last": "Hunt",
+                "first": "Dolores"
+            },
+            "email": "dolores.hunt@undefined.com",
+            "index": 1,
+            "phone": "+1 (967) 432-2905",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acacefedd0fe77874d78f",
-          "age": 28,
-          "name": {
-            "last": "Pennington",
-            "first": "Milagros"
-          },
-          "email": "milagros.pennington@undefined.net",
-          "index": 2,
-          "phone": "+1 (922) 492-2085",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acacefedd0fe77874d78f",
+            "age": 28,
+            "name": {
+                "last": "Pennington",
+                "first": "Milagros"
+            },
+            "email": "milagros.pennington@undefined.net",
+            "index": 2,
+            "phone": "+1 (922) 492-2085",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acace6d3f84fc9b40849f",
-          "age": 32,
-          "name": {
-            "last": "Anderson",
-            "first": "Myrtle"
-          },
-          "email": "myrtle.anderson@undefined.biz",
-          "index": 3,
-          "phone": "+1 (858) 404-3273",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace6d3f84fc9b40849f",
+            "age": 32,
+            "name": {
+                "last": "Anderson",
+                "first": "Myrtle"
+            },
+            "email": "myrtle.anderson@undefined.biz",
+            "index": 3,
+            "phone": "+1 (858) 404-3273",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acace06d24518b6419d23",
-          "age": 29,
-          "name": {
-            "last": "York",
-            "first": "Terry"
-          },
-          "email": "terry.york@undefined.co.uk",
-          "index": 4,
-          "phone": "+1 (816) 492-3475",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace06d24518b6419d23",
+            "age": 29,
+            "name": {
+                "last": "York",
+                "first": "Terry"
+            },
+            "email": "terry.york@undefined.co.uk",
+            "index": 4,
+            "phone": "+1 (816) 492-3475",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acace46f0669738455d6b",
-          "age": 38,
-          "name": {
-            "last": "Bridges",
-            "first": "Effie"
-          },
-          "email": "effie.bridges@undefined.info",
-          "index": 5,
-          "phone": "+1 (856) 423-3786",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace46f0669738455d6b",
+            "age": 38,
+            "name": {
+                "last": "Bridges",
+                "first": "Effie"
+            },
+            "email": "effie.bridges@undefined.info",
+            "index": 5,
+            "phone": "+1 (856) 423-3786",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acace5ab5217354268532",
-          "age": 26,
-          "name": {
-            "last": "Walter",
-            "first": "Krista"
-          },
-          "email": "krista.walter@undefined.me",
-          "index": 6,
-          "phone": "+1 (849) 513-2888",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace5ab5217354268532",
+            "age": 26,
+            "name": {
+                "last": "Walter",
+                "first": "Krista"
+            },
+            "email": "krista.walter@undefined.me",
+            "index": 6,
+            "phone": "+1 (849) 513-2888",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acaced68677a5dca08a9b",
-          "age": 20,
-          "name": {
-            "last": "Buchanan",
-            "first": "Gomez"
-          },
-          "email": "gomez.buchanan@undefined.biz",
-          "index": 7,
-          "phone": "+1 (888) 494-2462",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acaced68677a5dca08a9b",
+            "age": 20,
+            "name": {
+                "last": "Buchanan",
+                "first": "Gomez"
+            },
+            "email": "gomez.buchanan@undefined.biz",
+            "index": 7,
+            "phone": "+1 (888) 494-2462",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acaceb7ece55cb38e546a",
-          "age": 20,
-          "name": {
-            "last": "Potter",
-            "first": "Caitlin"
-          },
-          "email": "caitlin.potter@undefined.io",
-          "index": 8,
-          "phone": "+1 (801) 514-3055",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acaceb7ece55cb38e546a",
+            "age": 20,
+            "name": {
+                "last": "Potter",
+                "first": "Caitlin"
+            },
+            "email": "caitlin.potter@undefined.io",
+            "index": 8,
+            "phone": "+1 (801) 514-3055",
+            "picture": "http://placehold.it/32x32"
         },
         {
-          "_id": "605acace98de45687c4c6279",
-          "age": 26,
-          "name": {
-            "last": "Dillon",
-            "first": "Guzman"
-          },
-          "email": "guzman.dillon@undefined.ca",
-          "index": 9,
-          "phone": "+1 (857) 407-2403",
-          "picture": "http://placehold.it/32x32"
+            "_id": "605acace98de45687c4c6279",
+            "age": 26,
+            "name": {
+                "last": "Dillon",
+                "first": "Guzman"
+            },
+            "email": "guzman.dillon@undefined.ca",
+            "index": 9,
+            "phone": "+1 (857) 407-2403",
+            "picture": "http://placehold.it/32x32"
         }
-      ]
-  }
+    ],
+    "devices": [
+        {
+            "id": "0",
+            "price": "55.47",
+            "isAvailable": "true",
+            "createdAt": "2016-08-23",
+            "color": "gold",
+            "brand": "samsung",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "1",
+            "price": "42.23",
+            "isAvailable": "false",
+            "createdAt": "2020-07-14",
+            "color": "white",
+            "brand": "samsung",
+            "ram": "4",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "2",
+            "price": "76.6",
+            "isAvailable": "false",
+            "createdAt": "2010-02-18",
+            "color": "white",
+            "brand": "apple",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "3",
+            "price": "93.24",
+            "isAvailable": "true",
+            "createdAt": "2016-03-10",
+            "color": "black",
+            "brand": "mi",
+            "ram": "4",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "4",
+            "price": "18.04",
+            "isAvailable": "true",
+            "createdAt": "2012-01-29",
+            "color": "green",
+            "brand": "sony",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "5",
+            "price": "8.84",
+            "isAvailable": "false",
+            "createdAt": "2022-05-03",
+            "color": "gold",
+            "brand": "google",
+            "ram": "16",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "6",
+            "price": "42.69",
+            "isAvailable": "true",
+            "createdAt": "2010-04-17",
+            "color": "silver",
+            "brand": "apple",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "7",
+            "price": "83.89",
+            "isAvailable": "false",
+            "createdAt": "2018-09-13",
+            "color": "gold",
+            "brand": "apple",
+            "ram": "16",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "8",
+            "price": "66.86",
+            "isAvailable": "true",
+            "createdAt": "2015-07-06",
+            "color": "blue",
+            "brand": "sony",
+            "ram": "32",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "9",
+            "price": "84.53",
+            "isAvailable": "false",
+            "createdAt": "2015-05-17",
+            "color": "blue",
+            "brand": "apple",
+            "ram": "32",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "10",
+            "price": "98.78",
+            "isAvailable": "true",
+            "createdAt": "2014-08-01",
+            "color": "white",
+            "brand": "apple",
+            "ram": "4",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "11",
+            "price": "81.09",
+            "isAvailable": "false",
+            "createdAt": "2019-07-31",
+            "color": "black",
+            "brand": "google",
+            "ram": "32",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "12",
+            "price": "31.42",
+            "isAvailable": "false",
+            "createdAt": "2011-07-27",
+            "color": "white",
+            "brand": "sony",
+            "ram": "4",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "13",
+            "price": "21.65",
+            "isAvailable": "false",
+            "createdAt": "2009-02-04",
+            "color": "silver",
+            "brand": "mi",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        },
+        {
+            "id": "14",
+            "price": "86.11",
+            "isAvailable": "true",
+            "createdAt": "2018-08-04",
+            "color": "blue",
+            "brand": "apple",
+            "ram": "8",
+            "picture": "http://placehold.it/32x32"
+        }
+    ]
+}
